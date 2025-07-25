@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Licenciatura en Sistemas",
+    "duracion": 4,
+    "horario": "Lunes a Viernes de 8:00 a 12:00"
+  },
+  {
+    "nombre": "Ingeniería Electrónica",
+    "duracion": 5,
+    "horario": "Lunes a Viernes de 14:00 a 18:00"
+  },
+  {
+    "nombre": "Lic. en Administración de Empresas",
+    "duracion": 4,
+    "horario": "Lunes a Viernes de 10:00 a 14:00"
+  },
+  {
+    "nombre": "Contaduría Pública",
+    "duracion": 4,
+    "horario": "Lunes a Viernes de 16:00 a 20:00"
+  }
+]
